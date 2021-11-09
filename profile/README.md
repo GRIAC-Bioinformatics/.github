@@ -6,3 +6,8 @@ Here you can find our bioinformatical pipelines (including QC), some default scr
 
 ## Future plans
 It would be great if we could add publications to a reppository as well as a shared knowledge base repository.
+
+## See also
+ - [@RijksUniversiteit-Groningen](https://github.com/rijksuniversiteit-groningen)
+ - [@Nawijn-Group-Bioinformatics](https://github.com/Nawijn-Group-Bioinformatics)
+ - [@rug-cit-hpc](https://github.com/rug-cit-hpc)
